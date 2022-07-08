@@ -1,0 +1,19 @@
+.bigger {
+    background-color: #FFC0CB;
+    font-family: Verdana, sans-serif;
+}
+
+#div1 {
+    color: 	#0000FF;
+    font-size: 36px;
+}
+
+#div2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bigger.ross {
+    font-size: 24px;
+}
